@@ -12,7 +12,7 @@ I wanted to learn Flutter.
 
 ## UI
 
-### dark mode playerlist
+### dark mode playlist
 
 ![dark-mode](./images/dark-mode.png)
 
