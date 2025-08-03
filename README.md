@@ -1,16 +1,25 @@
 # musicland
 
-A new Flutter project.
+Simple Music player
 
-## Getting Started
+## Created Using audioplayers and on_audio_query_forked
 
-This project is a starting point for a Flutter application.
+why Fork: I tried on_audio_query but it is giving error of namespace and and two different compilers
 
-A few resources to get you started if this is your first Flutter project:
+## Why I created
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I wanted to learn Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## UI
+
+### dark mode playerlist
+
+![dark-mode](./images/dark-mode.png)
+
+### mode setting
+
+![mode setting](./images/mode-setting.png)
+
+### light mode player
+
+![player light mode](./images/light-mode.png)
